@@ -51,12 +51,3 @@ Power BI Beginner to Pro/
 
 ---
 
-## 📝 Notes
-
-* **No GitHub repository references** were found inside the package.
-* This resource is purely for **learning and personal practice**.
-* Credits: Pragmatic Academy (if original source).
-
----
-
-Let me know if you want a **LICENSE section** or **badges (JavaScript, Power BI, MIT License)** added for your GitHub upload today.
