@@ -1,7 +1,3 @@
-Here is the **GitHub README.md** for your **Power BI Beginner to Pro** ZIP package in the **same clear, structured format** as your Java CGPA Calculator example:
-
----
-
 # 📊 Power BI Beginner to Pro – Course Resources
 
 A **complete resource package** for the **Power BI Beginner to Pro** workshop, containing:
